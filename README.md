@@ -6,6 +6,8 @@ In order to do that, we're going to ask you to complete this coding challenge.
 **Please do not spend more than 5 hours on this task**, as this would not be
 respectful of your time.
 
+**Please do not submit work as a PR as these are publicly visible**
+
 ## Task
 
 In this repo is a small application with the following endpoints already implemented:
