@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "github.com/buffup/techtest/pkg/api";
+option go_package = "github.com/buffup/GolangTechTask/pkg/api";
 
 service VotingService {
   rpc CreateVoteable(CreateVoteableRequest) returns (CreateVoteableResponse) {}
