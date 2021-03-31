@@ -29,6 +29,7 @@ We need you to:
 There are a few optional tasks you can complete if you really want to show off.
 
 1. Adding Observability 
+
     Adding structured logging and/or tracing and metrics.
     (The current tech used should be considered when choosing technologies)
 
