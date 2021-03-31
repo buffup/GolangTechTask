@@ -18,7 +18,7 @@ There is also a "hello world" go application in `cmd/` and a `docker-compose.yml
 
 We need you to:
 
-- Provide a `Go` a `Go` implementation of the `GRPC` service in the `cmd/` directory of this repo.
+- Provide a `Go` implementation of the `GRPC` service in the `cmd/` directory of this repo.
 - Implement a `DynamoDB` based store for this `GRPC` service
 - Add pagination to the `ListVoteables` RPC call
 - Provide adequate test coverage for this simple service
